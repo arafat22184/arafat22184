@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBoMjZ6ejhjeXVpbWNyZXZzN3hyZTFqMDNyNmQ5YXg1M3YydGl0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafat22184&label=Profile%20views&color=0e75b6&style=flat" alt="arafat22184" /> </p>
