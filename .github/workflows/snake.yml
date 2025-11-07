@@ -28,7 +28,7 @@ jobs:
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.Kali_Linux }}
+          personal_token: ${{ secrets.KALI_LINUX }}
           publish_branch: output
           publish_dir: ./dist
           force_orphan: true
