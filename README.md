@@ -25,17 +25,17 @@ const alArafat = {
     frontend: {
       frameworks: ["React", "Next.js"],
       styling: ["Tailwind CSS", "Bootstrap", "DaisyUI", "CSS3"],
-      stateManagement: ["Redux", "Context API"]
+      stateManagement: ["Redux", "Context API"],
     },
     backend: {
       runtime: ["Node.js", "Express.js"],
       database: ["MongoDB", "Mongoose"],
-      auth: ["JWT", "Firebase Auth"]
+      auth: ["JWT", "Firebase Auth"],
     },
-    tools: ["Git", "Vite", "Vercel", "Netlify", "VS Code"]
+    tools: ["Git", "Vite", "Vercel", "Netlify", "VS Code"],
   },
   currentFocus: "Building scalable full-stack applications",
-  funFact: "I turn coffee into code ☕ → 💻"
+  funFact: "I turn coffee into code ☕ → 💻",
 };
 ```
 
@@ -44,6 +44,7 @@ const alArafat = {
 ## 🛠️ Tech Stack
 
 ### ⚛️ Frontend Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -52,6 +53,7 @@ const alArafat = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧩 Backend & Database
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -59,11 +61,13 @@ const alArafat = {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🎨 Styling & UI Frameworks
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 ### ⚙️ Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -112,9 +116,9 @@ const alArafat = {
 
 ## 🎯 Currently Working On
 
-- 🔭 Building modern web applications with the MERN stack  
-- 🌱 Learning advanced TypeScript and Next.js features  
-- 👯 Collaborating on open-source projects  
+- 🔭 Building modern web applications with the MERN stack
+- 🌱 Learning advanced TypeScript and Next.js features
+- 👯 Collaborating on open-source projects
 - 💬 Ask me about **React**, **Node.js**, or **Full-Stack Development**
 
 ---
@@ -122,9 +126,9 @@ const alArafat = {
 <div align="center">
 
 ⚡ **Fun Fact**  
-I probably spend more time organizing my code than writing it! 😄  
+I probably spend more time organizing my code than writing it! 😄
 
-✨ *Thanks for visiting my profile!* Let's build something amazing together! ✨  
+✨ _Thanks for visiting my profile!_ Let's build something amazing together! ✨
 
 ![GitHub Snake Animation](https://github.com/arafat22184/arafat22184/blob/output/github-contribution-grid-snake.svg)
 
