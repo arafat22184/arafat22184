@@ -61,7 +61,7 @@ I enjoy working in collaborative environments and turning ideas into real, impac
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=arafat22184&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-
+![](https://nirzak-streak-stats.vercel.app/?user=arafat22184&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat22184&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
