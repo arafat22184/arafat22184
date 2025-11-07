@@ -19,18 +19,18 @@ jobs:
     steps:
       # Step 1: Checkout the repository
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # Step 2: Generate snake animation
-      - name: Generate Snake Animation
+      - name: Generate GitHub Contribution Grid Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: arafat22184
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          # Optional: customize the color palette
-          # color: random
 
       # Step 3: Deploy to output branch
       - name: Deploy to Output Branch
@@ -39,6 +39,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: ./dist
-          # Keep the existing files in the output branch
-          keep_files: true
-          force_orphan: false
+          force_orphan: true
+          keep_files: false
+          commit_message: "Generate snake animation [skip ci]"
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
