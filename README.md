@@ -30,7 +30,9 @@ const alArafat = {
 
 ---
 
-## 💻 Tech Stack <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,vite,git,github,vercel,netlify" /> </p> previously you give me this one
+## 💻 Tech Stack 
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,vite,git,github,vercel,netlify" /> </p> previously you give me this one
 
 <!-- ## 🚀 Tech Stack
 
