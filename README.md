@@ -1,4 +1,3 @@
-
 <!-- Modern Developer GitHub Profile README -->
 
 <p align="center">
@@ -25,13 +24,15 @@ const alArafat = {
   focus: "Building modern, scalable full-stack web applications",
   code: ["JavaScript", "TypeScript", "Python"],
   tools: ["Git", "Vercel", "VS Code", "Figma"],
-  funFact: "I turn coffee ☕ into clean code 💻"
+  funFact: "I turn coffee ☕ into clean code 💻",
 };
 ```
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,vite,git,github,vercel,netlify" /> </p> previously you give me this one
+
+<!-- ## 🚀 Tech Stack
 
 ### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -51,7 +52,7 @@ const alArafat = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
@@ -94,6 +95,7 @@ const alArafat = {
 ---
 
 ## ✨ Fun Fact
+
 > I probably spend more time organizing my code than writing it 😄
 
 ---
