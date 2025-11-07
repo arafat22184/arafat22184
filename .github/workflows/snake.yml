@@ -1,28 +1,38 @@
-name: Update Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  update-snake:
+  generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - uses: jaywcjlove/snake@main
+      - name: Generate GitHub Contribution Grid Snake
+        uses: Platane/snk@v3
         with:
-          # Your GitHub username
           github_user_name: arafat22184
-          # Output file path
-          svg_file_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
+          personal_token: ${{ secrets.Kali_Linux }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
+          keep_files: false
           commit_message: "Update snake animation"
-          branch: main
-          file_pattern: dist/github-contribution-grid-snake.svg
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
