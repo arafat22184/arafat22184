@@ -4,7 +4,7 @@
   <img src="https://res.cloudinary.com/ddckuxsjx/image/upload/v1750791270/GitHub-Banner_hd1hmc.png" alt="Al Arafat GitHub Banner" width="100%"/>
 </p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Al Arafat</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">SecC Boi Al Arafat</span></h1>
 <h3 align="center">💻 Full-Stack Developer | MERN Stack Specialist | Open Source Enthusiast</h3>
 
 <p align="center">
