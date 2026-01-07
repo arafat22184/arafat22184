@@ -117,9 +117,43 @@ const alArafat = {
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arafat22184&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+
+### 🎖️ Achievement Badges
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"><br>
+<b>Pull Shark</b><br>
+<sub>Merged Pull Requests</sub>
+</td>
+<td align="center" width="200">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"><br>
+<b>Quickdraw</b><br>
+<sub>Closed issues fast</sub>
+</td>
+<td align="center" width="200">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120"><br>
+<b>YOLO</b><br>
+<sub>Merged without review</sub>
+</td>
+<td align="center" width="200">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="120"><br>
+<b>Starstruck</b><br>
+<sub>Repository Stars</sub>
+</td>
+</tr>
+</table>
+
+### 🏅 Stats Highlights
+
+![](https://img.shields.io/badge/Total%20Contributions-1,407-blue?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Longest%20Streak-20%20days-orange?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Public%20Repos-58-green?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Years%20on%20GitHub-2+-purple?style=for-the-badge&logo=github)
+
+</div>
 
 ---
 
@@ -193,6 +227,7 @@ const alArafat = {
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
+
 
 ---
 
