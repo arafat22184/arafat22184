@@ -101,12 +101,12 @@ const alArafat = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arafat22184&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170em" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat22184&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170em" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arafat22184&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arafat22184&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170em" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafat22184&theme=tokyonight&hide_border=true" height="170em" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=arafat22184&theme=tokyonight&hide_border=true" height="170em" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -118,7 +118,7 @@ const alArafat = {
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arafat22184&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arafat22184&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -173,21 +173,10 @@ const alArafat = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arafat22184&repo=your-project-1&theme=tokyonight&hide_border=true)](https://github.com/arafat22184/your-project-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arafat22184&repo=your-project-2&theme=tokyonight&hide_border=true)](https://github.com/arafat22184/your-project-2)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arafat22184&repo=vision-mart&theme=tokyonight&hide_border=true)](https://github.com/arafat22184/vision-mart)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arafat22184&repo=assignment-12-client&theme=tokyonight&hide_border=true)](https://github.com/arafat22184/assignment-12-client)
 
 </div>
-
-> **Note:** Replace `your-project-1` and `your-project-2` with your actual repository names to showcase your best work!
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> Connect your blog feed to automatically display your latest posts!
 
 ---
 
@@ -209,10 +198,9 @@ const alArafat = {
 
 ## 📊 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> **Tip:** Set up WakaTime to track your coding activity automatically!
+<div align="center">
+  <img src="https://wakatime.com/share/@arafat22184/7e414fda-9a7e-487f-a04b-6650a20ac4cf.svg" width="100%" alt="WakaTime Stats"/>
+</div>
 
 ---
 
