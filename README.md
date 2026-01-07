@@ -231,18 +231,6 @@ const alArafat = {
 
 ---
 
-## 📊 Weekly Development Breakdown
-
-<div align="center">
-  <img src="https://wakatime.com/share/@arafat22184/7e414fda-9a7e-487f-a04b-6650a20ac4cf.svg" width="100%" alt="WakaTime Stats"/>
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=40" width="100%"/>
-</p>
-
 <p align="center">
   <b>⭐ Let's Build Something Amazing Together!</b><br/>
   <i>Thank you for visiting my profile 💙</i><br/><br/>
@@ -252,4 +240,8 @@ const alArafat = {
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/arafat22184/arafat22184?style=for-the-badge&logo=github&color=7dc4e4&logoColor=D9E0EE&labelColor=302D41"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=40" width="100%"/>
 </p>
