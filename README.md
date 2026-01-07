@@ -52,7 +52,7 @@ const alArafat = {
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,vite,git,github,vercel,netlify,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,vite,git,github,vercel,netlify,figma,vscode" title="My Tech Stack: HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, Firebase, Tailwind CSS, Bootstrap, Vite, Git, GitHub, Vercel, Netlify, Figma, VS Code" />
 </p>
 
 <details open>
@@ -124,22 +124,22 @@ const alArafat = {
 <table>
 <tr>
 <td align="center" width="200">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"><br>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" title="Pull Shark - Earned for having pull requests merged"><br>
 <b>Pull Shark</b><br>
 <sub>Merged Pull Requests</sub>
 </td>
 <td align="center" width="200">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"><br>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120" title="Quickdraw - Earned for closing issues or pull requests within 5 minutes of opening"><br>
 <b>Quickdraw</b><br>
 <sub>Closed issues fast</sub>
 </td>
 <td align="center" width="200">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120"><br>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120" title="YOLO - Earned for merging a pull request without code review"><br>
 <b>YOLO</b><br>
 <sub>Merged without review</sub>
 </td>
 <td align="center" width="200">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="120"><br>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="120" title="Starstruck - Earned when a repository you created receives stars"><br>
 <b>Starstruck</b><br>
 <sub>Repository Stars</sub>
 </td>
@@ -148,10 +148,10 @@ const alArafat = {
 
 ### 🏅 Stats Highlights
 
-![](https://img.shields.io/badge/Total%20Contributions-1,407-blue?style=for-the-badge&logo=github)
-![](https://img.shields.io/badge/Longest%20Streak-20%20days-orange?style=for-the-badge&logo=github)
-![](https://img.shields.io/badge/Public%20Repos-58-green?style=for-the-badge&logo=github)
-![](https://img.shields.io/badge/Years%20on%20GitHub-2+-purple?style=for-the-badge&logo=github)
+<img src="https://img.shields.io/badge/Total%20Contributions-1,407-blue?style=for-the-badge&logo=github" title="Total contributions across all repositories" />
+<img src="https://img.shields.io/badge/Longest%20Streak-20%20days-orange?style=for-the-badge&logo=github" title="My longest contribution streak - 20 consecutive days of commits!" />
+<img src="https://img.shields.io/badge/Public%20Repos-58-green?style=for-the-badge&logo=github" title="Number of public repositories I've created" />
+<img src="https://img.shields.io/badge/Years%20on%20GitHub-2+-purple?style=for-the-badge&logo=github" title="Active on GitHub for over 2 years" />
 
 </div>
 
@@ -178,25 +178,25 @@ const alArafat = {
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/md-abdulla-all-arafat-8a9892200">
+  <a href="https://linkedin.com/in/md-abdulla-all-arafat-8a9892200" title="Connect with me on LinkedIn - Let's network and collaborate!">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/@arafat22184">
+  <a href="https://x.com/@arafat22184" title="Follow me on Twitter/X - Stay updated with my tech journey">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="mailto:123alarafat@gmail.com">
+  <a href="mailto:123alarafat@gmail.com" title="Send me an email - I'd love to hear from you!">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://reddit.com/user/Southern-Coyote-6562/">
+  <a href="https://reddit.com/user/Southern-Coyote-6562/" title="Join me on Reddit - Tech discussions and more">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/arafat22184">
+  <a href="https://github.com/arafat22184" title="Check out my GitHub repositories and contributions">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/30633622/al-arafat">
+  <a href="https://stackoverflow.com/users/30633622/al-arafat" title="View my Stack Overflow profile and contributions">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 </p>
@@ -207,8 +207,12 @@ const alArafat = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arafat22184&repo=vision-mart&theme=tokyonight&hide_border=true)](https://github.com/arafat22184/vision-mart)
-[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arafat22184&repo=assignment-12-client&theme=tokyonight&hide_border=true)](https://github.com/arafat22184/assignment-12-client)
+<a href="https://github.com/arafat22184/vision-mart" title="Vision Mart - Full-stack e-commerce platform built with MERN stack">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arafat22184&repo=vision-mart&theme=tokyonight&hide_border=true" alt="Vision Mart Repository"/>
+</a>
+<a href="https://github.com/arafat22184/assignment-12-client" title="Assignment 12 Client - React-based web application with modern UI/UX">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arafat22184&repo=assignment-12-client&theme=tokyonight&hide_border=true" alt="Assignment 12 Client Repository"/>
+</a>
 
 </div>
 
